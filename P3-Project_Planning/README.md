@@ -8,12 +8,10 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-
+https://wireframepro.mockflow.com/view/Ma0a33d9acdd90e73b17057350a4d1a501564184612715#/page/D950567493ad1d3fddaa5f80ec3a058c3
 ### Project Tracker
+https://trello.com/b/oYtc3Me4/playground-finder
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 
 ### Project Repo Link
-
-(Include a link to your project on GitHub)
+https://github.com/LaunchCodeLiftoffProjects/july-2019-jayke.git
