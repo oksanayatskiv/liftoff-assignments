@@ -14,4 +14,5 @@ https://trello.com/b/oYtc3Me4/playground-finder
 
 
 ### Project Repo Link
+https://github.com/LaunchCodeLiftoffProjects/july-2019-jayke
 https://github.com/LaunchCodeLiftoffProjects/july-2019-jayke.git
