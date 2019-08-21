@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 https://github.com/oksanayatskiv
  
 ### LinkedIn
-
+https://www.linkedin.com/in/oksana-yatskiv-57872a136/
 
 ### Resume
 https://docs.google.com/document/d/1hEEybVIJLVbjAhY33d9IUvuXm4W3lRHiBs66BXWqeGk/edit?usp=sharing
